@@ -31,5 +31,5 @@
 *.out
 *.app
 
-# Omit jetbrains generated directory
+# Jetbrains generated directory
 *.idea
